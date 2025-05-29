@@ -9,6 +9,7 @@ The system extracts key temporal features such as hour of the day, day of the we
 Whether used as a standalone prediction tool or integrated into a larger smart city ecosystem, the Junction Congestion Predictor showcases the powerful application of machine learning for real-time, human-centric urban problem-solving.
 
 📂 Project Structure
+
 ├── app.py                  # Streamlit app launcher
 
 ├── predict_page.py         # Prediction UI and logic
