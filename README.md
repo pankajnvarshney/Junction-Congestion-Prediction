@@ -66,11 +66,13 @@ How to Run
    
 3. Run using: streamlit run app.py
 
-Summary
+Summary :
+
 Practical web app combining ML prediction with an intuitive interface. This project combines machine learning and web app deployment to predict traffic volume based on time and date inputs. It successfully integrates user-friendly interfaces with powerful predictive modeling to create a tool that is both practical and informative. The design ensures easy accessibility and clear visibility, with background styling and form optimization enhancing the user experience.
 Overall, this Traffic Congestion Prediction Web App offers a clear demonstration of how modern web technologies can be combined with data science to solve real-world problems effectively.
 
-Conclusion
+Conclusion:
+
 A successful foundation for smart traffic management apps using data science and modern web technologies. The Traffic Congestion Prediction Web App successfully integrates data science, machine learning, and a clean user interface to solve a practical problem. Users can easily predict traffic volume based on simple inputs, receive quick insights about congestion levels, and visualize traffic patterns over a full day. This project highlights the power of predictive analytics combined with user-friendly deployment, making it an excellent foundation for further enhancements such as real-time updates, integration with maps, and predictive traffic management systems.
 
 
